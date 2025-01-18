@@ -6,13 +6,13 @@
   "engines": {
     "node": ">18.0.0"
   },
-  "homepage": "https://github.com/mrrashidov/vue-admin#readme",
+  "homepage": "https://github.com/mrrashidov/vue-clean-starter#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrrashidov/vue-admin.git"
+    "url": "https://github.com/mrrashidov/vue-clean-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/mrrashidov/vue-admin/issues",
+    "url": "https://github.com/mrrashidov/vue-clean-starter/issues",
     "email": "mrrashidov@hotmail.com"
   },
   "license": "MIT",
